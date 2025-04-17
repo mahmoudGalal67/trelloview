@@ -1,3 +1,3 @@
-this a trllo clone with most neccessary features with react and conneced with laravel api 
+This a Trello clone with the most necessary features with React and connected with the laravel api 
 
-i close some connection of the api to make you see the features becouse its secured
+I close some connections of the api to make you see the features because it is secured
